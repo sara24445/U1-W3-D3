@@ -1,0 +1,12 @@
+h1 {
+  font-size: 1.25em;
+  font-weight: bold;
+  margin: 1em 0;
+}
+form {
+  text-align: center;
+  line-height: 18px;
+}
+div {
+  line-height: 18px;
+}
